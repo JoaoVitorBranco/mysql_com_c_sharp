@@ -31,3 +31,10 @@ E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mau
 E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\obj\Debug\net7.0\MyFirstWebAPIProject.pdb
 E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\obj\Debug\net7.0\MyFirstWebAPIProject.genruntimeconfig.cache
 E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\obj\Debug\net7.0\ref\MyFirstWebAPIProject.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\nunit.engine.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\nunit.engine.api.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\nunit.engine.core.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\testcentric.engine.metadata.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\MyFirstWebAPIProject\bin\Debug\net7.0\nunit.framework.dll

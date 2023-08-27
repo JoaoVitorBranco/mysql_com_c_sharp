@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "wjS+h2CD+YB1WXBVbuDoGVENU8ZzRMW9oq2RozoEnfm2GKq2uIew3wXHiOaV5EB3u9eri0yUyLP3fuHf8794hg==",
+  "dgSpecHash": "M/ueHvVdM1wJb4VsV+ChSvHrFm/V4UDd5iVSBVwzS7mNlw4BmoPvh2VBwNPb1b3dsj4xEe2QB47y7Sh1eoJMbQ==",
   "success": true,
   "projectFilePath": "E:\\Arquivos Área de Trabalho\\Arquivos Área de Trabalho\\Mauá\\Dev Community Mauá\\mysql_com_c_sharp\\MyFirstWebAPIProject\\MyFirstWebAPIProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

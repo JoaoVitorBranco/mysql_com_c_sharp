@@ -11,3 +11,8 @@ $ dotnet run
 
 - acessar: http://localhost:5007/swagger/index.html
 - mesma docs utilizada pelo FASTAPI
+
+
+# Objetivo
+
+Conseguir integrar C# com MySQL. Para tal, inicialmente, se tentará fazer uma API mockada em C#.
