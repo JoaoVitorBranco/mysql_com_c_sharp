@@ -2,17 +2,21 @@ using System.Collections.Generic;
 
 public class RepoMock{
     // attributes
-    private List<int> items = new List<int> {5, 10, 15};
+    private List<Item> items;
     public RepoMock(){
+        items = new List<Item> {
+            new Item(1, "Item 1"),
+            new Item(2, "Item 2"),
+            new Item(3, "Item 3"),
+        };
     }
     
-    public int returnId(int index){
-        int item = 0;
-        try{
-            item = items[index];
-        }
-        catch{
-            item = 0;
+    public string returnItem(int index){
+        string item = "Item -1";
+        foreach(Item i in items){
+            if(i.getId() == index){
+                item = i.getName();
+            }
         }
         return item;
     }

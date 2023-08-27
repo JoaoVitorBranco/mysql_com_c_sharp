@@ -17,7 +17,7 @@ namespace SimpleWebAPI.Controllers
         public IActionResult GetUser(int id)
         {
             RepoMock repo = new RepoMock();
-            return Ok($"User ID: {repo.returnId(id)}");
+            return Ok($"User ID: {repo.returnItem(id)}");
         }
     }
 }
