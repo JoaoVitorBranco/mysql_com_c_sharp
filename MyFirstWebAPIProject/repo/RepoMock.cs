@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 
-public class RepoMock{
-    // attributes
+public class RepoMock : RepoInterface{
     private List<Item> items;
     public RepoMock(){
         items = new List<Item> {

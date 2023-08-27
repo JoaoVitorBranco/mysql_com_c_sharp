@@ -6,11 +6,18 @@
 $ dotnet new webapi –name MyFirstWebAPIProject
 $ cd MyFirstWebAPIProject
 $ dotnet build
-$ dotnet run
+$ dotnet watch run
 ```
 
 - acessar: http://localhost:5007/swagger/index.html
 - mesma docs utilizada pelo FASTAPI
+
+## Ligando C# com MySQL
+
+```console
+$ dotnet add package MySql.Data
+```
+## Ligando o MySQL no [Visual Studio Code](https://www.geeksforgeeks.org/how-to-connect-to-mysql-server-using-vs-code-and-fix-errors/)
 
 
 # Objetivo
