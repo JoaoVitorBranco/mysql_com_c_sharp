@@ -1,0 +1,14 @@
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\bin\Debug\net7.0\app.exe
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\bin\Debug\net7.0\app.deps.json
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\bin\Debug\net7.0\app.runtimeconfig.json
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\bin\Debug\net7.0\app.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\bin\Debug\net7.0\app.pdb
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\refint\app.dll
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.pdb
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+E:\Arquivos Área de Trabalho\Arquivos Área de Trabalho\Mauá\Dev Community Mauá\mysql_com_c_sharp\app\obj\Debug\net7.0\ref\app.dll
